@@ -1,2 +1,2 @@
 # Javascript-Animations
-Javascript Animations
+## Javascript Animations with Canvas
